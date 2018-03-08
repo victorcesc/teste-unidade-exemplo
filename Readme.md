@@ -1,7 +1,6 @@
 
 
-https://travis-ci.org/victorcesc/teste-unidade-exemplo.svg?branch=master
-
+[![Build Status](https://travis-ci.org/victorcesc/teste-unidade-exemplo.svg?branch=master)](https://travis-ci.org/victorcesc/teste-unidade-exemplo)
 
 # Exemplo de como usar testes de unidade com JUnit 4
 
