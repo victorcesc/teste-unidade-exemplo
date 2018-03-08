@@ -10,7 +10,7 @@ public class TesteNaoPerfeitos {
 
     @Parameterized.Parameters(name = "{index}: perfeito({0}) = false")
     public static Object[] data() {
-        return new Object[]{0,1,2,3,5,7,13, 200, 220, 1000 };
+        return new Object[]{0,5,7,13, 200, 220, 1000 };
     }
 
     @Parameterized.Parameter
